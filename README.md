@@ -8,8 +8,8 @@ Projeto desenvolvido ao longo do evento NLW Copa, promovido pela Rocketseat para
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#desenvolvedora">Desenvolvedora</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#agradecimentos">Agradecimentos</a>
+  <a href="#-desenvolvedora">Desenvolvedora</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-agradecimentos">Agradecimentos</a>
 </p>
 
 <br>
@@ -33,12 +33,12 @@ O Calendário de Jogos é uma página web que permite acessar o dia e horário d
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## Desenvolvedora
+## 👧 Desenvolvedora
 
 - Github - [Nathannie Gomes](https://github.com/nathannieg)
 - LinkedIn - [Nathannie Gomes](https://www.linkedin.com/in/nathanniegomes/)
 - Frontend Mentor - [@nathannieg](https://www.frontendmentor.io/profile/nathannieg)
 
-## Agradecimentos
+## 👍 Agradecimentos
 
 Esse projeto foi proposto pela Rockseat e codado junto com o instrutor ao longo do evento. Obrigada, [Mayk Brito](https://github.com/maykbrito), por nos transmitir conteúdos de forma tão clara, simples, sempre com o maior amor pelo que faz.
