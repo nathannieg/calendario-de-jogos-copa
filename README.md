@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário de Jogos é uma página web que permite acessar o dia e horário de jogos da Copa do Mundo que sejam do meu interesse. [Acesse a aplicação aqui]().
+O Calendário de Jogos é uma página web que permite acessar o dia e horário de jogos da Copa do Mundo que sejam do meu interesse. [Acesse a aplicação aqui](https://nathannieg.github.io/calendario-de-jogos-copa/).
 
 ## 🔖 Layout
 
