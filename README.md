@@ -8,6 +8,7 @@ Projeto desenvolvido ao longo do evento NLW Copa, promovido pela Rocketseat para
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-melhorias">Melhorias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-desenvolvedora">Desenvolvedora</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-agradecimentos">Agradecimentos</a>
 </p>
@@ -36,6 +37,10 @@ O Calendário de Jogos é uma página web que permite acessar o dia e horário d
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 🔧 Melhorias
+
+Atualmente, o código está repetitivo: é preciso adicionar cada card e cada jogo dentro de um card manualmente. Para tornar a aplicação mais eficiente, o objetivo é fazer essa adição de forma mais dinâmica (talvez usando um loop), com dados de uma lista de objetos que estamos usando como um pequeno banco de dados.
 
 ## 👧 Desenvolvedora
 
